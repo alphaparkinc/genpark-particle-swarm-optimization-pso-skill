@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-particle-swarm-optimization-pso-skill
+name: genpark-particle-swarm-optimization-pso-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
